@@ -1,0 +1,239 @@
+[20-Jun-2018 16:36:16 Asia/Bangkok] PHP Fatal error:  Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Authorization header malformed. [jwt_auth_bad_auth_header] in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:348
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(378): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(414): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('orders/12034', 'GET', Array, Array)
+#3 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(120): Automattic\WooCommerce\Client->get('orders/12034')
+#4 /var/ in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 348
+[20-Jun-2018 16:39:09 Asia/Bangkok] PHP Fatal error:  Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Authorization header malformed. [jwt_auth_bad_auth_header] in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:348
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(378): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(414): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('orders/12034', 'GET', Array, Array)
+#3 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(120): Automattic\WooCommerce\Client->get('orders/12034')
+#4 /var/ in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 348
+[20-Jun-2018 16:42:46 Asia/Bangkok] PHP Fatal error:  Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Authorization header malformed. [jwt_auth_bad_auth_header] in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:348
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(378): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(414): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('orders/12034', 'GET', Array, Array)
+#3 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(120): Automattic\WooCommerce\Client->get('orders/12034')
+#4 /var/ in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 348
+[20-Jun-2018 16:43:16 Asia/Bangkok] PHP Fatal error:  Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Authorization header malformed. [jwt_auth_bad_auth_header] in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:348
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(378): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(414): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('orders/12034', 'GET', Array, Array)
+#3 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(120): Automattic\WooCommerce\Client->get('orders/12034')
+#4 /var/ in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 348
+[20-Jun-2018 16:46:18 Asia/Bangkok] PHP Fatal error:  Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Authorization header malformed. [jwt_auth_bad_auth_header] in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:348
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(378): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(414): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('orders/12034', 'GET', Array, Array)
+#3 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(120): Automattic\WooCommerce\Client->get('orders/12034')
+#4 /var/ in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 348
+[20-Jun-2018 16:47:26 Asia/Bangkok] PHP Fatal error:  Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Authorization header malformed. [jwt_auth_bad_auth_header] in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:348
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(378): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(414): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/Client.php(69): Automattic\WooCommerce\HttpClient\HttpClient->request('orders/12034', 'PUT', Array)
+#3 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(119): Automattic\WooCommerce\Client->put('orders/12034', Array)
+#4 /var/ in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 348
+[20-Jun-2018 16:47:53 Asia/Bangkok] PHP Fatal error:  Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Authorization header malformed. [jwt_auth_bad_auth_header] in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:348
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(378): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(414): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/Client.php(69): Automattic\WooCommerce\HttpClient\HttpClient->request('orders/12034', 'PUT', Array)
+#3 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(119): Automattic\WooCommerce\Client->put('orders/12034', Array)
+#4 /var/ in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 348
+[20-Jun-2018 16:49:23 Asia/Bangkok] PHP Fatal error:  Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Authorization header malformed. [jwt_auth_bad_auth_header] in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:348
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(378): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(414): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/Client.php(69): Automattic\WooCommerce\HttpClient\HttpClient->request('orders/12034', 'PUT', Array)
+#3 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(119): Automattic\WooCommerce\Client->put('orders/12034', Array)
+#4 /var/ in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 348
+[20-Jun-2018 17:03:08 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to private method product::ProductprocessURL() from context '' in /var/www/vhosts/yoonthai.com/httpdocs/webservices/endpoint.php:30
+Stack trace:
+#0 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/endpoint.php on line 30
+[20-Jun-2018 17:04:02 Asia/Bangkok] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /var/www/vhosts/yoonthai.com/httpdocs/webservices/endpoint.php on line 30
+[20-Jun-2018 17:04:42 Asia/Bangkok] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /var/www/vhosts/yoonthai.com/httpdocs/webservices/endpoint.php on line 30
+[20-Jun-2018 17:05:19 Asia/Bangkok] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /var/www/vhosts/yoonthai.com/httpdocs/webservices/endpoint.php on line 30
+[20-Jun-2018 17:05:42 Asia/Bangkok] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /var/www/vhosts/yoonthai.com/httpdocs/webservices/endpoint.php on line 30
+[20-Jun-2018 17:07:58 Asia/Bangkok] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /var/www/vhosts/yoonthai.com/httpdocs/webservices/endpoint.php on line 30
+[20-Jun-2018 17:08:15 Asia/Bangkok] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /var/www/vhosts/yoonthai.com/httpdocs/webservices/endpoint.php on line 30
+[20-Jun-2018 17:09:33 Asia/Bangkok] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /var/www/vhosts/yoonthai.com/httpdocs/webservices/endpoint.php on line 30
+[20-Jun-2018 17:10:15 Asia/Bangkok] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /var/www/vhosts/yoonthai.com/httpdocs/webservices/endpoint.php on line 30
+[20-Jun-2018 17:13:32 Asia/Bangkok] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /var/www/vhosts/yoonthai.com/httpdocs/webservices/endpoint.php on line 30
+[20-Jun-2018 17:14:07 Asia/Bangkok] PHP Warning:  Use of undefined constant base_url - assumed 'base_url' (this will throw an Error in a future version of PHP) in /var/www/vhosts/yoonthai.com/httpdocs/webservices/endpoint.php on line 30
+[09-Jul-2018 10:47:52 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php:117
+Stack trace:
+#0 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 117
+[09-Jul-2018 12:23:24 Asia/Bangkok] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 82
+[09-Jul-2018 12:23:24 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php:83
+Stack trace:
+#0 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 83
+[09-Jul-2018 13:16:55 Asia/Bangkok] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 82
+[09-Jul-2018 13:16:55 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php:83
+Stack trace:
+#0 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 83
+[09-Jul-2018 13:18:43 Asia/Bangkok] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 82
+[09-Jul-2018 13:18:43 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php:83
+Stack trace:
+#0 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 83
+[09-Jul-2018 13:22:00 Asia/Bangkok] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 82
+[09-Jul-2018 13:22:00 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php:83
+Stack trace:
+#0 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 83
+[09-Jul-2018 13:23:58 Asia/Bangkok] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 82
+[09-Jul-2018 13:23:58 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php:83
+Stack trace:
+#0 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 83
+[14-Jul-2018 22:23:39 Asia/Bangkok] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 82
+[14-Jul-2018 22:23:39 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php:83
+Stack trace:
+#0 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 83
+[16-Jul-2018 11:45:43 Asia/Bangkok] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 82
+[16-Jul-2018 11:45:43 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php:83
+Stack trace:
+#0 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 83
+[16-Jul-2018 11:45:44 Asia/Bangkok] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 82
+[16-Jul-2018 11:45:44 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php:83
+Stack trace:
+#0 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 83
+[16-Jul-2018 14:56:57 Asia/Bangkok] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 82
+[16-Jul-2018 14:56:57 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php:83
+Stack trace:
+#0 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 83
+[18-Jul-2018 23:52:32 Asia/Bangkok] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 82
+[18-Jul-2018 23:52:32 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php:83
+Stack trace:
+#0 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 83
+[19-Jul-2018 11:05:01 Asia/Bangkok] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 122
+[19-Jul-2018 11:05:05 Asia/Bangkok] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 122
+[19-Jul-2018 16:15:49 Asia/Bangkok] PHP Fatal error:  Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Authorization header malformed. [jwt_auth_bad_auth_header] in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:348
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(378): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(414): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('products', 'GET', Array, Array)
+#3 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(56): Automattic\WooCommerce\Client->get('products', Array)
+#4 /var/ww in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 348
+[19-Jul-2018 16:15:58 Asia/Bangkok] PHP Fatal error:  Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Authorization header malformed. [jwt_auth_bad_auth_header] in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:348
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(378): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(414): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('products', 'GET', Array, Array)
+#3 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(56): Automattic\WooCommerce\Client->get('products', Array)
+#4 /var/ww in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 348
+[19-Jul-2018 16:16:20 Asia/Bangkok] PHP Fatal error:  Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Authorization header malformed. [jwt_auth_bad_auth_header] in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:348
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(378): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(414): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('products', 'GET', Array, Array)
+#3 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(56): Automattic\WooCommerce\Client->get('products', Array)
+#4 /var/ww in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 348
+[19-Jul-2018 16:18:00 Asia/Bangkok] PHP Fatal error:  Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Authorization header malformed. [jwt_auth_bad_auth_header] in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:348
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(378): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(414): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('products', 'GET', Array, Array)
+#3 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(56): Automattic\WooCommerce\Client->get('products', Array)
+#4 /var/ww in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 348
+[19-Jul-2018 16:21:05 Asia/Bangkok] PHP Fatal error:  Uncaught Automattic\WooCommerce\HttpClient\HttpClientException: Error: Authorization header malformed. [jwt_auth_bad_auth_header] in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php:348
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(378): Automattic\WooCommerce\HttpClient\HttpClient->lookForErrors(Object(stdClass))
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php(414): Automattic\WooCommerce\HttpClient\HttpClient->processResponse()
+#2 /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/Client.php(82): Automattic\WooCommerce\HttpClient\HttpClient->request('', 'GET', Array, Array)
+#3 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(45): Automattic\WooCommerce\Client->get('')
+#4 /var/www/vhosts/yoonthai.com/h in /var/www/vhosts/yoonthai.com/httpdocs/webservices/vendor/automattic/woocommerce/src/WooCommerce/HttpClient/HttpClient.php on line 348
+[19-Jul-2018 16:25:14 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function product::ProductprocessURL(), 1 passed in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 45 and at least 2 expected in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php:131
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(45): product->ProductprocessURL('')
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php(153): product->checkstatus()
+#2 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 131
+[19-Jul-2018 16:28:17 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function product::ProductprocessURL(), 1 passed in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 45 and at least 2 expected in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php:131
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(45): product->ProductprocessURL('https://www.yoo...')
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php(153): product->checkstatus()
+#2 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 131
+[19-Jul-2018 16:28:39 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function product::ProductprocessURL(), 1 passed in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 45 and at least 2 expected in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php:131
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(45): product->ProductprocessURL('https://www.yoo...')
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php(153): product->checkstatus()
+#2 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 131
+[19-Jul-2018 16:33:19 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function product::ProductprocessURL(), 1 passed in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 45 and at least 2 expected in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php:131
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(45): product->ProductprocessURL('https://www.yoo...')
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php(153): product->checkstatus()
+#2 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 131
+[19-Jul-2018 16:33:34 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function product::ProductprocessURL(), 1 passed in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 45 and at least 2 expected in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php:131
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(45): product->ProductprocessURL('https://www.yoo...')
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php(153): product->checkstatus()
+#2 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 131
+[19-Jul-2018 16:33:41 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function product::ProductprocessURL(), 1 passed in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 45 and at least 2 expected in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php:131
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(45): product->ProductprocessURL('https://www.yoo...')
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php(153): product->checkstatus()
+#2 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 131
+[19-Jul-2018 16:40:31 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function product::ProductprocessURL(), 1 passed in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 56 and at least 2 expected in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php:131
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(56): product->ProductprocessURL('https://www.yoo...')
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php(153): product->getAllProductList()
+#2 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 131
+[19-Jul-2018 16:41:33 Asia/Bangkok] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function product::ProductprocessURL(), 1 passed in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 56 and at least 2 expected in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php:131
+Stack trace:
+#0 /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php(56): product->ProductprocessURL('https://www.yoo...')
+#1 /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php(153): product->getAllProductList()
+#2 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 131
+[20-Jul-2018 16:26:26 Asia/Bangkok] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 85
+[20-Jul-2018 16:26:26 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php:86
+Stack trace:
+#0 {main}
+  thrown in /var/www/vhosts/yoonthai.com/httpdocs/webservices/services.php on line 86
+[10-Aug-2018 12:17:42 Asia/Bangkok] PHP Warning:  Use of undefined constant _baseURL - assumed '_baseURL' (this will throw an Error in a future version of PHP) in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:17:42 Asia/Bangkok] PHP Warning:  A non-numeric value encountered in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:18:57 Asia/Bangkok] PHP Warning:  Use of undefined constant _baseURL - assumed '_baseURL' (this will throw an Error in a future version of PHP) in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:18:57 Asia/Bangkok] PHP Warning:  A non-numeric value encountered in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:18:57 Asia/Bangkok] PHP Warning:  A non-numeric value encountered in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:19:49 Asia/Bangkok] PHP Warning:  Use of undefined constant _baseURL - assumed '_baseURL' (this will throw an Error in a future version of PHP) in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:19:49 Asia/Bangkok] PHP Warning:  A non-numeric value encountered in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:19:49 Asia/Bangkok] PHP Warning:  A non-numeric value encountered in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:20:22 Asia/Bangkok] PHP Warning:  Use of undefined constant _baseURL - assumed '_baseURL' (this will throw an Error in a future version of PHP) in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:20:22 Asia/Bangkok] PHP Warning:  A non-numeric value encountered in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:20:22 Asia/Bangkok] PHP Warning:  A non-numeric value encountered in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:21:16 Asia/Bangkok] PHP Warning:  Use of undefined constant _baseURL - assumed '_baseURL' (this will throw an Error in a future version of PHP) in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:21:16 Asia/Bangkok] PHP Warning:  A non-numeric value encountered in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:21:16 Asia/Bangkok] PHP Warning:  A non-numeric value encountered in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:21:35 Asia/Bangkok] PHP Warning:  Use of undefined constant _baseURL - assumed '_baseURL' (this will throw an Error in a future version of PHP) in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:21:35 Asia/Bangkok] PHP Warning:  A non-numeric value encountered in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:21:35 Asia/Bangkok] PHP Warning:  A non-numeric value encountered in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:22:44 Asia/Bangkok] PHP Warning:  A non-numeric value encountered in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:22:44 Asia/Bangkok] PHP Warning:  A non-numeric value encountered in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:22:58 Asia/Bangkok] PHP Warning:  A non-numeric value encountered in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:22:58 Asia/Bangkok] PHP Warning:  A non-numeric value encountered in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:23:23 Asia/Bangkok] PHP Warning:  A non-numeric value encountered in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:23:23 Asia/Bangkok] PHP Warning:  A non-numeric value encountered in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 63
+[10-Aug-2018 12:24:47 Asia/Bangkok] PHP Warning:  A non-numeric value encountered in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 64
+[10-Aug-2018 12:24:47 Asia/Bangkok] PHP Warning:  A non-numeric value encountered in /var/www/vhosts/yoonthai.com/httpdocs/webservices/class/class_product.php on line 64
